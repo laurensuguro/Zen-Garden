@@ -31,4 +31,23 @@ aside {
 
 a {
   text-decoration: none;
+  color: lightsalmon;
+}
+
+a:visited {
+  color: forestgreen;
+}
+
+a:hover {
+  color: darkcyan;
+}
+
+section {
+  border: 1px solid;
+  box-shadow: 10px 5px 5px darkmagenta;
+}
+
+h1 {
+  font-size: 3em;
+  text-shadow: 5px 3px 3px teal;
 }
