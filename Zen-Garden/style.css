@@ -45,9 +45,26 @@ a:hover {
 section {
   border: 1px solid;
   box-shadow: 10px 5px 5px darkmagenta;
+  background-color: lightgoldenrodyellow;
+  background-color: lightgoldenrodyellow;
+  width: 90%;
+  margin: auto;
 }
 
 h1 {
   font-size: 3em;
   text-shadow: 5px 3px 3px teal;
+}
+
+p {
+  font-size: 10px;
+  text-align: justify;
+}
+
+span {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
 }
